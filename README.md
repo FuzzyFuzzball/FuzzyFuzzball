@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fuzzball
+- 👀 I’m interested in coding, gaming and listening to music.
+- 🌱 I’m currently learning PHP and more advanced web development.
+- 💞️ I’m looking to collaborate on nothing currently.
+- 📫 How to reach me discord, Fuzzball#0001.
